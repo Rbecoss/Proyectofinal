@@ -1,0 +1,127 @@
+Participantes ,Sexo ,Edad,Lima metropolitana,Ocupación,Cantidad de cursos,Ciclo de estudios,Tipo de clases ,Carga académica,1. Durante el transcurso de este semestre ¿has tenido momentos de preocupación o nerviosismo (estrés)?,"2. Con la idea de obtener mayor precisión, y utilizando una escala del 1 al 5, señala tu nivel de estrés, donde (1) es poco y (5) mucho.",EAE1,EAE2,EAE3,EAE4,EAE5,EAE6,EAE7,EAS1,EAS2,EAS3,EAS4,EAS5,EAS6,EAS7,EAA1,EAA2,EAA3,EAA4,EAA5,EAA6,EAA7,PA1,PA2,PA3,PA4,PA5,PA6,PA7,PA8,PA9,PA10,PA11,PA12
+1,Mujer,19,Sí,Solo estudio,6,6,Presencial,Alta,Sí,4,3,2,3,3,4,2,3,2,3,4,3,3,3,4,2,3,3,3,4,4,3,3,3,2,4,3,3,3,3,3,3,3,5
+2,Mujer,22,Sí,Solo estudio,7,9,Virtual,Alta,Sí,4,4,3,4,2,4,3,4,4,4,4,3,3,2,3,4,4,4,3,4,3,4,3,3,4,4,3,2,2,4,4,5,3,5
+3,Mujer,18,Sí,Solo estudio,7,4,Presencial,Muy alta,Sí,5,4,4,5,3,4,4,4,4,5,5,5,3,2,3,4,3,3,4,4,2,4,3,4,2,4,5,2,3,4,4,4,4,3
+4,Mujer,19,Sí,Solo estudio,4,2,Presencial,Normal,Sí,4,4,1,4,4,4,4,4,5,4,4,5,4,4,5,2,4,4,4,4,4,4,5,1,3,4,2,5,4,3,4,4,4,4
+5,Mujer,19,Sí,Solo estudio,6,4,Híbrido (Virtual y Presencial),Normal,Sí,4,4,1,3,3,4,4,2,3,4,3,2,2,1,4,4,4,4,3,3,3,4,3,3,4,4,3,3,3,2,2,2,2,3
+6,Mujer,18,Sí,Solo estudio,5,4,Híbrido (Virtual y Presencial),Alta,Sí,4,3,1,2,3,3,3,1,3,1,3,3,1,1,3,4,4,3,3,2,3,3,2,3,4,5,3,3,3,4,3,4,3,2
+7,Hombre,23,Sí,Solo estudio,3,9,Presencial,Alta,Sí,3,2,3,2,3,3,3,1,1,3,3,2,2,0,2,5,4,2,2,4,0,3,2,3,3,4,4,3,3,3,2,4,5,4
+8,Mujer,19,Sí,Solo estudio,6,7,Híbrido (Virtual y Presencial),Normal,Sí,3,2,3,2,3,2,3,3,4,3,2,2,1,0,1,4,4,3,5,3,3,3,2,5,4,5,4,2,3,4,4,3,4,4
+9,Mujer,22,Sí,Estudio y trabajo,5,9,Virtual,Alta,Sí,5,5,3,3,4,4,4,4,4,4,4,4,3,3,4,5,5,4,3,4,2,3,3,3,5,4,5,1,1,4,4,4,3,3
+10,Hombre,19,Sí,Solo estudio,5,6,Híbrido (Virtual y Presencial),Alta,Sí,5,4,1,3,4,4,1,3,0,1,4,4,2,1,4,3,3,2,5,5,3,2,4,3,3,4,3,4,5,5,3,3,2,5
+11,Hombre,19,Sí,Solo estudio,5,6,Presencial,Alta,Sí,4,3,2,4,2,2,4,4,3,2,3,3,1,1,3,1,4,4,3,4,4,3,3,2,2,5,3,3,4,3,2,3,3,4
+12,Mujer,18,Sí,Solo estudio,6,2,Híbrido (Virtual y Presencial),Alta,Sí,3,3,2,2,3,3,4,3,3,2,2,1,2,1,3,2,3,3,4,3,3,4,1,3,4,5,4,1,1,3,3,4,4,5
+13,Mujer,21,Sí,Solo estudio,6,6,Presencial,Muy alta,Sí,5,5,4,4,3,3,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,2,4,4,5,4,3,3,4,4,4,4,4
+14,Hombre,20,Sí,Solo estudio,5,6,Presencial,Alta,Sí,3,3,1,2,2,2,3,2,1,1,4,4,2,2,3,1,2,2,1,2,1,1,5,2,2,4,2,3,4,3,2,3,2,3
+15,Mujer,18,Sí,Solo estudio,4,2,Presencial,Alta,Sí,4,4,2,3,3,3,5,2,3,3,3,5,3,3,4,2,2,2,2,3,3,3,4,3,4,5,3,3,3,3,3,3,2,4
+16,Mujer,19,Sí,Estudio y trabajo,5,6,Presencial,Normal,Sí,4,4,1,3,3,4,5,2,3,3,3,4,1,0,3,4,4,4,3,1,3,3,2,4,3,5,5,3,3,5,3,5,5,5
+17,Mujer,20,Sí,Solo estudio,5,6,Híbrido (Virtual y Presencial),Alta,Sí,5,4,3,3,4,3,4,3,4,3,4,5,2,0,4,5,5,5,5,5,3,5,4,3,5,4,3,3,5,3,5,4,3,5
+18,Mujer,19,Sí,Solo estudio,6,6,Presencial,Alta,Sí,5,4,3,5,4,4,4,4,3,4,4,3,1,1,4,3,3,4,3,4,2,3,3,3,4,4,3,4,5,3,3,4,3,3
+19,Mujer,19,Sí,Solo estudio,5,5,Presencial,Muy alta,Sí,4,5,4,4,5,5,4,2,4,3,5,1,2,3,1,2,2,4,3,2,3,4,3,3,4,5,5,1,1,5,4,5,5,5
+20,Mujer,19,Sí,Solo estudio,4,5,Híbrido (Virtual y Presencial),Baja,No,3,4,3,3,4,4,4,4,2,1,4,4,3,3,3,4,3,3,4,4,4,4,5,2,2,4,4,4,5,3,4,3,2,3
+21,Mujer,20,Sí,Solo estudio,4,5,Híbrido (Virtual y Presencial),Alta,Sí,4,4,2,4,4,5,4,3,3,1,2,3,2,1,4,3,4,2,3,3,3,3,2,3,4,5,4,3,4,4,3,3,4,4
+22,Hombre,20,Sí,Solo estudio,6,7,Presencial,Normal,Sí,4,3,0,2,3,4,4,0,1,1,3,4,3,3,4,4,4,4,4,3,3,4,4,4,4,5,4,4,4,4,4,4,4,4
+23,Mujer,21,Sí,Solo estudio,5,5,Híbrido (Virtual y Presencial),Alta,Sí,4,4,0,4,4,4,3,2,1,3,3,2,2,2,2,4,5,5,3,4,3,4,2,5,4,5,4,3,3,5,5,5,4,4
+24,Mujer,22,Sí,Solo estudio,4,9,Virtual,Alta,Sí,5,3,3,3,2,3,4,4,3,3,4,2,1,0,2,3,3,4,3,4,2,5,2,4,4,5,5,2,2,4,4,5,5,4
+25,Mujer,21,Sí,Solo estudio,4,9,Híbrido (Virtual y Presencial),Normal,Sí,4,3,3,2,4,4,4,4,1,2,4,3,3,3,3,4,4,3,3,4,5,4,3,2,4,4,3,1,1,4,3,5,5,4
+26,Mujer,19,Sí,Solo estudio,6,6,Presencial,Normal,Sí,3,3,4,4,3,4,4,3,3,2,2,4,2,0,0,4,4,3,2,1,3,3,1,2,4,4,5,2,3,3,2,5,5,4
+27,Mujer,20,Sí,Solo estudio,7,6,Virtual,Alta,No,3,4,4,3,4,4,4,3,5,3,3,5,3,2,5,4,3,3,3,2,1,1,5,2,2,3,2,5,5,3,1,3,2,3
+28,Hombre,20,Sí,Solo estudio,5,5,Presencial,Normal,Sí,4,4,3,4,5,5,5,4,5,4,4,3,2,2,5,4,4,3,2,5,4,4,3,4,5,5,3,4,4,5,3,4,3,4
+29,Mujer,24,Sí,Solo estudio,7,9,Virtual,Muy alta,Sí,4,4,2,2,5,4,5,1,5,4,4,5,4,4,5,3,2,1,1,0,1,0,3,3,4,5,3,4,4,3,3,3,3,2
+30,Mujer,21,Sí,Estudio y trabajo,4,5,Híbrido (Virtual y Presencial),Normal,Sí,4,4,3,3,3,3,4,4,5,3,4,1,1,1,4,2,2,2,2,2,2,3,4,2,2,4,2,4,4,3,2,3,2,2
+31,Mujer,20,Sí,Solo estudio,7,6,Virtual,Alta,Sí,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,3,5,4,2,2,4,3,4,4,3
+32,Hombre,19,Sí,Solo estudio,6,6,Presencial,Alta,Sí,3,3,3,2,2,2,3,2,4,3,4,3,2,1,2,5,5,4,4,4,5,4,2,4,3,5,5,2,3,3,4,4,5,4
+33,Mujer,25,Sí,Estudio y trabajo,1,9,Virtual,Normal,Sí,5,2,3,4,4,3,4,5,5,5,5,4,4,4,5,2,3,3,2,4,5,3,5,2,5,5,2,3,3,3,3,3,2,5
+34,Prefiero no decirlo,20,Sí,Solo estudio,6,6,Híbrido (Virtual y Presencial),Normal,Sí,3,2,0,3,3,4,3,1,3,2,2,5,1,0,2,2,4,2,2,5,3,2,3,3,4,5,4,3,3,5,4,4,4,5
+35,Mujer,19,Sí,Solo estudio,7,2,Híbrido (Virtual y Presencial),Normal,Sí,2,3,5,3,5,3,5,5,5,5,5,5,5,3,5,4,4,5,3,5,4,2,4,2,4,5,5,5,5,2,2,1,4,5
+36,Mujer,20,Sí,Estudio y trabajo,6,6,Presencial,Alta,Sí,4,4,3,4,3,3,4,3,4,3,3,2,3,3,3,4,3,3,3,4,3,3,3,4,4,4,3,4,5,4,3,3,4,3
+37,Hombre,19,Sí,Solo estudio,6,6,Presencial,Baja,No,1,1,1,0,0,2,0,0,0,0,0,2,1,1,1,4,4,5,5,4,3,5,2,4,4,5,5,1,2,3,4,4,4,4
+38,Mujer,25,Sí,Solo estudio,6,6,Presencial,Alta,Sí,3,3,2,3,3,3,4,3,4,4,4,5,4,4,5,5,5,4,5,3,5,3,2,4,5,4,3,3,3,4,4,4,3,5
+39,Mujer,19,Sí,Estudio y trabajo,4,6,Híbrido (Virtual y Presencial),Normal,Sí,4,3,4,4,2,2,2,4,4,4,5,3,2,2,4,3,3,4,4,5,5,3,4,3,3,4,3,5,5,3,3,3,4,3
+40,Prefiero no decirlo,19,Sí,Solo estudio,5,4,Presencial,Muy alta,Sí,5,4,2,3,4,2,5,3,3,2,3,4,1,0,5,3,2,3,4,4,4,3,2,4,5,5,3,4,3,4,3,4,5,2
+41,Hombre,20,Sí,Solo estudio,5,5,Híbrido (Virtual y Presencial),Normal,Sí,5,5,3,3,1,0,3,4,2,4,4,4,3,0,4,3,3,3,2,4,2,5,3,4,4,5,2,4,3,3,3,3,2,4
+42,Mujer,19,Sí,Solo estudio,5,6,Presencial,Baja,Sí,1,1,3,2,3,2,1,1,2,3,0,4,3,4,3,3,2,3,5,3,0,5,4,2,2,2,2,5,5,1,1,2,2,5
+43,Mujer,18,Sí,Solo estudio,5,4,Híbrido (Virtual y Presencial),Normal,Sí,4,2,0,3,4,4,4,1,5,5,3,5,1,1,5,3,2,1,0,5,2,5,4,5,3,4,3,5,5,2,3,4,3,4
+44,Mujer,19,Sí,Solo estudio,5,6,Presencial,Alta,Sí,5,4,3,4,4,3,4,3,3,4,4,4,0,0,4,4,4,3,3,4,4,3,3,4,3,5,3,3,3,3,5,4,3,3
+45,Mujer,19,Sí,Solo estudio,8,6,Virtual,Normal,Sí,5,4,4,5,5,4,4,2,2,2,3,4,0,0,3,5,5,5,4,4,3,5,3,2,4,5,3,2,2,4,3,3,3,5
+46,Mujer,19,Sí,Solo estudio,5,6,Híbrido (Virtual y Presencial),Alta,Sí,4,4,3,2,2,4,4,3,0,0,1,3,3,1,3,3,3,2,4,3,1,3,4,1,3,4,3,4,5,2,4,4,2,4
+47,Hombre,19,Sí,Solo estudio,6,6,Híbrido (Virtual y Presencial),Normal,Sí,3,3,2,3,2,3,3,4,3,3,3,4,2,1,4,3,3,3,4,2,3,4,4,3,3,5,3,4,4,3,3,3,3,4
+48,Mujer,19,Sí,Estudio y trabajo,7,6,Virtual,Normal,Sí,4,3,3,4,3,3,3,4,4,3,3,5,4,3,4,2,2,3,3,3,3,4,4,3,2,1,3,5,5,3,2,3,2,3
+49,Mujer,20,Sí,Solo estudio,5,6,Híbrido (Virtual y Presencial),Alta,Sí,5,5,3,3,3,2,5,4,4,4,4,5,4,4,4,1,2,2,1,3,1,4,5,2,3,5,2,4,4,4,3,3,4,3
+50,Mujer,22,Sí,Solo estudio,7,7,Presencial,Muy alta,Sí,5,4,2,3,4,5,4,3,3,4,4,5,3,2,5,0,0,1,2,3,4,4,5,3,1,5,5,4,3,3,4,1,4,3
+51,Mujer,18,Sí,Solo estudio,7,3,Híbrido (Virtual y Presencial),Alta,Sí,4,4,3,3,3,3,3,4,3,3,3,3,2,2,4,3,4,4,3,3,3,4,4,3,3,4,3,4,4,4,3,4,3,4
+52,Mujer,21,Sí,Estudio y trabajo,7,9,Presencial,Alta,Sí,4,4,5,4,3,2,4,3,3,3,4,5,4,4,5,3,3,4,3,3,4,3,5,2,2,5,3,4,4,3,2,2,4,3
+53,Mujer,18,Sí,Solo estudio,8,4,Híbrido (Virtual y Presencial),Alta,Sí,4,4,2,5,3,4,4,3,3,3,4,3,3,3,4,3,3,2,4,1,2,1,4,2,3,4,2,5,4,2,2,2,3,4
+54,Hombre,20,Sí,Solo estudio,6,7,Presencial,Normal,Sí,4,3,1,3,3,3,3,3,3,4,3,4,3,4,3,3,3,3,3,4,3,4,4,3,4,3,4,4,4,3,4,4,3,3
+55,Hombre,19,Sí,Solo estudio,6,7,Híbrido (Virtual y Presencial),Alta,Sí,5,4,3,3,4,4,3,4,4,4,5,3,4,4,3,4,3,4,4,2,2,4,4,4,3,5,5,4,4,4,5,5,5,5
+56,Hombre,19,Sí,Solo estudio,7,4,Virtual,Normal,Sí,4,4,5,4,4,4,3,4,3,4,5,4,2,3,4,3,4,4,3,5,3,2,2,4,4,5,4,4,4,2,3,2,3,4
+57,Mujer,21,Sí,Solo estudio,7,7,Presencial,Normal,Sí,4,4,2,4,3,4,4,4,2,4,4,3,3,2,4,3,3,3,3,0,2,2,4,2,3,5,2,4,4,2,3,4,3,3
+58,Mujer,19,Sí,Solo estudio,6,6,Presencial,Alta,Sí,3,4,2,3,3,3,4,3,1,1,3,3,0,0,2,5,5,3,3,4,3,3,3,2,4,5,3,3,3,4,3,5,3,5
+59,Mujer,18,Sí,Solo estudio,5,4,Presencial,Alta,Sí,5,3,0,2,2,2,5,4,3,2,3,1,1,0,3,5,5,4,3,4,3,4,3,3,3,3,3,3,3,4,3,3,3,5
+60,Mujer,23,Sí,Solo estudio,4,9,Virtual,Normal,Sí,4,4,1,4,3,4,3,3,2,3,3,3,3,3,3,4,4,4,3,3,2,3,2,4,3,5,5,3,3,3,3,3,5,4
+61,Mujer,19,Sí,Solo estudio,6,6,Presencial,Alta,Sí,4,4,3,3,4,2,5,5,4,3,4,3,3,1,4,4,3,5,3,3,2,1,2,4,3,5,2,5,5,3,3,2,4,5
+62,Hombre,19,Sí,Solo estudio,5,2,Híbrido (Virtual y Presencial),Normal,No,2,2,3,4,3,3,3,2,2,0,1,2,0,0,3,3,3,1,4,4,4,3,4,3,4,4,3,3,3,2,2,2,3,2
+64,Mujer,22,Sí,Solo estudio,6,6,Presencial,Muy alta,Sí,5,5,4,3,3,2,4,3,5,5,5,5,5,5,5,3,4,4,1,0,3,1,2,2,3,5,3,5,5,4,2,3,5,5
+65,Mujer,18,Sí,Solo estudio,7,4,Híbrido (Virtual y Presencial),Alta,Sí,4,4,2,4,4,4,4,4,5,3,3,5,3,4,5,1,1,2,2,3,1,3,4,3,3,4,2,4,4,2,2,3,2,4
+66,Hombre,19,Sí,Solo estudio,5,4,Presencial,Muy alta,Sí,5,4,2,2,3,3,5,2,4,3,3,4,3,2,4,4,4,4,4,4,4,4,4,3,3,5,4,4,4,5,4,4,4,5
+67,Mujer,19,Sí,Solo estudio,4,4,Presencial,Baja,No,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,5,5,5,5,5,5,5,3,2,3,5,3,3,1,4,3,3,2,5
+68,Mujer,19,Sí,Solo estudio,7,6,Presencial,Muy alta,Sí,5,5,3,4,3,3,5,3,3,3,4,5,3,2,5,3,2,3,1,3,3,4,3,2,4,4,3,3,4,4,3,4,2,2
+69,Mujer,18,Sí,Solo estudio,6,4,Híbrido (Virtual y Presencial),Alta,Sí,5,3,1,4,3,3,1,2,5,3,5,4,4,4,3,3,3,1,1,0,2,1,3,4,2,4,4,3,4,3,3,2,4,2
+70,Mujer,19,Sí,Solo estudio,5,4,Híbrido (Virtual y Presencial),Alta,Sí,4,4,1,3,3,3,3,3,4,3,4,5,2,2,4,3,4,3,2,4,3,3,4,3,4,4,3,4,4,3,3,3,2,4
+71,Mujer,20,Sí,Solo estudio,5,6,Híbrido (Virtual y Presencial),Alta,Sí,5,5,3,3,3,3,5,3,4,3,3,3,2,1,3,3,3,5,3,4,3,3,3,3,5,5,3,4,4,4,4,4,4,4
+72,Hombre,20,Sí,Estudio y trabajo,5,7,Presencial,Normal,Sí,3,3,3,3,3,3,4,4,2,2,3,4,2,1,3,4,3,3,5,5,2,4,3,3,4,4,3,3,3,3,4,5,3,4
+74,Mujer,19,Sí,Solo estudio,6,6,Presencial,Alta,Sí,4,3,3,4,4,4,4,4,2,2,3,3,3,2,3,5,5,5,5,5,5,5,1,5,4,5,5,2,2,5,4,4,4,4
+75,Hombre,21,Sí,Solo estudio,7,9,Presencial,Alta,Sí,4,4,4,4,3,4,4,4,4,4,4,4,2,3,3,4,3,3,4,4,4,3,3,2,3,4,3,3,4,4,4,4,3,3
+76,Hombre,20,Sí,Solo estudio,5,6,Híbrido (Virtual y Presencial),Normal,Sí,5,4,3,3,4,4,4,2,2,4,3,3,2,2,4,3,3,3,3,4,2,4,5,2,4,5,4,3,4,3,2,4,2,4
+77,Mujer,19,Sí,Solo estudio,4,4,Presencial,Normal,Sí,5,3,2,3,3,4,3,2,3,4,4,3,3,3,3,3,3,3,3,3,3,2,3,3,4,5,3,2,2,4,4,4,3,3
+78,Mujer,19,Sí,Solo estudio,8,6,Presencial,Alta,Sí,4,4,3,3,3,4,4,3,4,3,4,3,3,2,3,3,3,3,3,3,3,3,3,3,2,4,3,3,2,4,2,4,3,3
+79,Mujer,19,Sí,Solo estudio,8,6,Híbrido (Virtual y Presencial),Alta,Sí,4,4,2,4,4,4,4,3,5,4,4,4,3,2,5,2,3,4,4,3,3,3,3,3,2,3,3,2,2,3,3,3,3,4
+80,Mujer,18,Sí,Solo estudio,5,2,Híbrido (Virtual y Presencial),Muy alta,Sí,5,4,3,4,4,5,4,3,4,5,5,5,3,3,4,3,3,3,2,3,2,2,4,4,3,3,3,3,3,2,3,3,2,4
+81,Hombre,22,Sí,Estudio y trabajo,6,7,,Muy alta,Sí,4,3,1,3,5,3,4,2,5,1,2,4,3,2,3,2,1,2,1,3,2,3,5,3,3,4,2,4,5,2,2,3,3,3
+82,Mujer,19,Sí,Solo estudio,6,6,Híbrido (Virtual y Presencial),Alta,Sí,5,4,3,3,4,4,5,3,4,3,3,3,3,2,4,4,4,3,2,1,3,4,3,5,3,4,4,3,2,4,4,3,3,3
+83,Mujer,21,Sí,Estudio y trabajo,6,6,Virtual,Alta,Sí,5,4,2,4,3,3,5,5,5,4,4,5,3,3,4,4,4,1,4,3,3,3,5,2,2,3,2,5,4,3,2,5,3,3
+84,Hombre,20,Sí,Estudio y trabajo,6,7,Presencial,Alta,Sí,4,4,4,4,4,4,4,4,4,3,4,5,0,0,3,4,4,4,4,4,4,4,3,3,3,5,3,4,4,4,5,4,3,3
+85,Mujer,19,Sí,Solo estudio,6,6,Presencial,Muy alta,Sí,5,5,3,5,5,3,5,5,4,4,4,4,1,3,4,3,4,4,4,4,3,3,3,3,4,5,4,3,3,4,4,4,4,5
+86,Hombre,20,Sí,Solo estudio,6,6,Híbrido (Virtual y Presencial),Alta,Sí,5,3,3,3,3,3,3,2,3,1,2,4,3,1,3,1,3,3,4,3,3,3,4,3,3,5,2,3,4,3,2,3,3,4
+87,Hombre,18,Sí,Solo estudio,5,4,Híbrido (Virtual y Presencial),Normal,Sí,4,1,1,3,4,4,4,2,2,3,4,4,4,1,1,3,3,4,4,4,4,4,3,3,3,5,3,3,2,4,4,4,4,4
+88,Mujer,19,Sí,Solo estudio,5,5,Híbrido (Virtual y Presencial),Normal,Sí,3,3,2,2,2,3,3,1,2,1,2,1,4,3,3,3,4,3,4,3,4,2,2,4,4,5,4,2,2,4,4,4,4,3
+89,Mujer,19,Sí,Estudio y trabajo,5,6,Presencial,Normal,Sí,4,4,2,2,3,3,1,2,4,4,3,2,0,0,4,4,4,3,3,2,5,4,2,3,3,5,5,3,3,4,4,4,5,4
+90,Mujer,20,Sí,Solo estudio,5,4,Presencial,Normal,Sí,4,4,2,3,3,3,4,4,3,4,4,4,4,4,4,4,4,3,4,4,3,4,4,3,3,5,3,3,4,5,3,4,3,3
+91,Mujer,19,Sí,Solo estudio,5,7,Presencial,Normal,Sí,4,4,1,3,4,4,4,5,4,4,4,4,4,3,5,4,4,4,4,5,5,5,4,3,4,4,3,4,4,5,5,5,4,3
+92,Mujer,19,Sí,Solo estudio,8,6,Presencial,Alta,Sí,5,4,3,3,5,4,3,2,4,3,4,5,2,1,4,4,4,2,5,2,4,1,3,4,2,5,5,3,4,3,3,5,5,4
+94,Mujer,19,Sí,Solo estudio,7,4,Híbrido (Virtual y Presencial),Muy alta,Sí,5,5,3,5,5,5,5,2,5,5,5,5,2,2,5,5,5,5,5,5,5,5,1,5,5,5,5,1,1,5,5,5,5,5
+96,Mujer,18,Sí,Solo estudio,5,4,Híbrido (Virtual y Presencial),Alta,Sí,4,3,4,3,5,4,5,4,3,3,4,5,4,2,4,2,3,3,4,4,5,2,3,5,4,5,4,5,4,4,3,4,2,4
+97,Hombre,21,Sí,Estudio y trabajo,5,8,Híbrido (Virtual y Presencial),Normal,Sí,3,4,0,1,1,1,3,1,4,3,3,3,0,0,3,4,5,5,3,5,4,3,2,3,4,4,3,4,3,3,2,3,3,5
+98,Hombre,24,Sí,Estudio y trabajo,6,4,Híbrido (Virtual y Presencial),Alta,Sí,4,4,2,4,4,4,2,2,3,2,3,2,3,2,3,4,4,4,4,4,4,4,1,4,4,5,4,1,2,4,5,4,4,4
+101,Hombre,20,Sí,Solo estudio,9,7,Virtual,Muy alta,Sí,5,4,3,5,3,5,2,4,2,2,4,5,4,5,5,3,3,3,3,5,4,4,5,2,4,5,2,5,5,3,3,4,1,2
+104,Mujer,18,Sí,Solo estudio,5,4,Presencial,Muy alta,Sí,4,3,4,5,3,3,1,3,5,5,5,4,0,0,3,2,2,4,3,4,3,3,5,1,4,5,3,5,3,5,2,5,2,5
+105,Mujer,20,Sí,Solo estudio,6,6,Presencial,Normal,Sí,4,3,4,4,3,4,3,3,3,4,4,4,4,3,5,2,1,3,3,4,0,3,4,2,3,5,1,4,5,2,2,3,3,2
+106,Mujer,21,Sí,Solo estudio,4,8,Presencial,Normal,Sí,3,4,2,4,3,3,4,3,3,3,4,5,4,4,4,2,2,4,3,4,4,3,1,4,5,5,5,2,2,3,4,4,4,5
+107,Mujer,24,Sí,Estudio y trabajo,4,12,Virtual,Baja,Sí,4,4,2,3,3,3,4,2,4,5,3,4,2,2,5,2,2,2,2,2,2,1,5,3,3,2,1,5,5,2,2,1,2,3
+108,Mujer,19,Sí,Solo estudio,6,4,Híbrido (Virtual y Presencial),Normal,Sí,4,3,2,2,3,3,4,2,3,3,3,3,2,2,3,3,3,3,4,3,3,4,2,3,3,5,4,3,3,4,4,4,4,3
+109,Mujer,19,Sí,Solo estudio,7,6,Híbrido (Virtual y Presencial),Muy alta,Sí,4,4,2,2,3,4,5,3,4,1,3,4,2,1,4,3,3,3,4,2,3,4,4,2,3,5,3,4,4,3,2,4,3,2
+110,Mujer,21,Sí,Solo estudio,8,8,Híbrido (Virtual y Presencial),Alta,Sí,4,3,2,2,3,3,4,3,3,4,5,3,3,2,4,3,3,1,3,3,3,1,3,3,4,4,3,4,3,3,3,4,4,3
+111,Prefiero no decirlo,18,Sí,Solo estudio,6,2,Presencial,Normal,Sí,5,4,3,3,3,3,4,4,4,4,3,4,2,2,3,2,2,3,3,3,2,3,3,3,3,4,3,2,2,5,3,4,3,4
+113,Mujer,25,Sí,Solo estudio,2,9,Virtual,Alta,Sí,4,4,4,3,3,2,4,1,3,5,5,5,2,2,5,3,3,4,3,3,1,4,5,1,4,2,2,5,5,3,2,2,1,5
+114,Mujer,21,Sí,Solo estudio,3,8,Híbrido (Virtual y Presencial),Muy alta,Sí,5,5,5,5,5,5,5,5,4,5,5,4,4,3,5,3,3,3,3,3,2,2,3,3,3,4,3,4,4,3,3,2,3,4
+115,Hombre,22,Sí,Solo estudio,5,6,Híbrido (Virtual y Presencial),Alta,Sí,4,3,2,4,4,3,4,5,5,4,5,5,4,4,5,4,3,4,4,5,3,5,5,1,3,3,1,5,5,5,2,3,2,4
+116,Mujer,19,Sí,Solo estudio,7,3,Presencial,Alta,Sí,4,4,2,4,4,3,4,3,0,2,4,4,2,1,3,4,4,5,5,5,5,3,4,4,3,5,4,1,1,3,4,4,3,5
+117,Mujer,18,Sí,Estudio y trabajo,5,3,Virtual,Normal,No,3,3,3,4,5,4,4,2,2,2,1,2,1,0,2,2,0,3,2,3,3,3,4,3,3,5,4,3,3,5,4,4,3,4
+118,Mujer,21,Sí,Estudio y trabajo,5,9,Híbrido (Virtual y Presencial),Normal,Sí,3,3,1,3,2,3,3,3,1,4,3,4,2,2,3,3,3,2,2,3,3,2,3,2,2,4,4,3,4,3,3,3,3,3
+119,Mujer,20,Sí,Solo estudio,8,6,Virtual,Alta,Sí,5,5,3,3,3,4,3,4,4,5,5,4,3,1,5,3,3,1,2,3,1,1,4,3,3,5,3,3,3,2,2,2,3,4
+120,Mujer,18,Sí,Solo estudio,7,3,Presencial,Alta,Sí,4,4,3,4,4,4,5,1,3,3,3,4,4,3,4,2,2,2,3,2,2,2,4,2,3,5,3,3,3,3,3,3,3,4
+121,Hombre,18,Sí,Solo estudio,4,1,Presencial,Muy alta,Sí,5,0,0,2,5,2,0,0,3,3,3,3,0,3,1,0,1,4,5,5,5,5,1,3,3,5,5,1,2,5,3,5,5,5
+122,Mujer,18,Sí,Solo estudio,4,3,Presencial,Alta,Sí,5,4,0,2,2,0,1,0,2,2,3,3,2,2,2,5,5,5,5,5,5,5,1,5,2,5,5,1,1,3,5,5,5,5
+123,Mujer,22,Sí,Estudio y trabajo,2,9,Presencial,Baja,No,3,3,2,2,3,1,1,3,2,2,3,2,2,2,2,3,3,3,3,3,3,4,3,2,3,4,4,2,2,2,3,3,3,3
+124,Mujer,21,Sí,Solo estudio,6,7,Híbrido (Virtual y Presencial),Muy alta,Sí,4,4,3,4,4,5,5,3,3,4,4,5,3,3,5,4,4,3,3,3,2,2,5,2,3,4,2,5,5,3,2,2,2,2
+125,Mujer,21,Sí,Solo estudio,6,5,Híbrido (Virtual y Presencial),Alta,Sí,4,4,3,2,3,4,3,3,4,4,4,3,2,2,3,4,3,2,4,4,4,5,4,2,4,5,2,4,4,3,3,3,2,4
+126,Mujer,18,Sí,Solo estudio,6,2,Híbrido (Virtual y Presencial),Alta,Sí,5,3,3,4,3,3,3,3,4,5,4,5,5,3,3,3,3,1,1,3,3,2,3,3,2,5,4,3,4,4,3,4,3,3
+127,Mujer,18,Sí,Solo estudio,5,3,Híbrido (Virtual y Presencial),Normal,Sí,4,4,4,3,4,4,3,5,2,4,4,2,4,4,3,4,3,3,3,4,4,3,2,4,3,5,5,3,4,4,3,3,5,4
+128,Mujer,21,Sí,Solo estudio,5,7,Presencial,Alta,Sí,4,4,2,3,3,3,4,3,4,4,4,4,3,2,3,4,4,4,3,4,4,3,4,3,4,4,2,5,5,2,2,2,3,4
+129,Hombre,22,Sí,Solo estudio,5,7,Presencial,Alta,Sí,4,3,1,3,4,2,5,3,2,1,3,4,4,2,3,3,1,2,1,4,3,1,3,3,2,3,4,4,4,2,4,1,3,3
+130,Mujer,18,Sí,Estudio y trabajo,6,1,Híbrido (Virtual y Presencial),Alta,Sí,4,3,0,3,2,4,4,1,2,3,3,4,0,2,4,4,3,3,3,4,3,3,3,2,3,5,3,3,3,3,2,4,3,4
+131,Hombre,25,Sí,Estudio y trabajo,7,7,Híbrido (Virtual y Presencial),Normal,No,3,2,2,2,3,2,3,2,2,4,2,2,1,1,3,2,2,2,2,3,3,2,3,3,3,3,5,5,5,3,3,3,4,3
+132,Mujer,20,Sí,Solo estudio,8,8,Híbrido (Virtual y Presencial),Alta,Sí,3,4,3,1,4,1,3,3,3,3,4,5,3,3,4,4,5,4,5,3,4,4,3,3,2,4,3,5,5,5,3,4,3,4
+133,Mujer,18,Sí,Solo estudio,5,3,Híbrido (Virtual y Presencial),Alta,Sí,4,4,4,4,3,4,4,4,4,4,5,4,4,4,4,3,4,4,4,3,4,4,1,4,4,5,5,2,2,4,4,4,4,4
+135,Mujer,19,Sí,Estudio y trabajo,1,1,Presencial,Muy baja,Sí,2,4,3,3,4,3,4,2,3,3,4,4,1,4,4,4,4,3,4,2,5,3,2,3,4,5,4,3,3,3,2,4,5,3
+136,Mujer,21,Sí,Solo estudio,4,6,Presencial,Normal,Sí,3,4,2,3,3,4,4,3,3,3,3,4,2,2,4,4,4,3,3,4,5,3,4,4,4,4,3,4,4,3,2,3,3,3
